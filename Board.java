@@ -105,8 +105,7 @@ public int getCurrentLetterValue() {
   {
 
       /**
-      *This allows  the user  to   check and see if they can  find 
-      * the letter  that get this done.
+      *This allows the user to check and see if they found a letter or not. 
       *
       */
     boolean foundLetter = false;
